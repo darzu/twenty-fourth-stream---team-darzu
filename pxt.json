@@ -1,0 +1,18 @@
+{
+    "name": "Twenty Fourth Stream - Team DarZu",
+    "dependencies": {
+        "device": "*",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.7.1",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.0.4"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
